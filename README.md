@@ -1,4 +1,4 @@
-### Hi there 👋
+### Assalamu alaykum 👋
 <h3 align="center">20 y.o Web developer from Andijan, Uzbekistan</h3>
 
 <h3 align="left">Connect with me:</h3>
