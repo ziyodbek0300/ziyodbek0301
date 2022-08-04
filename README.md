@@ -1,7 +1,7 @@
 ### Assalamu alaykum 👋
-<h3 align="center">20 y.o Web developer from Andijan, Uzbekistan</h3>
+<h4 align="center">20 y.o Web developer from Andijan, Uzbekistan</h4>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/ziyodbek-ahmadjonov-2b78b11b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziyodbek" height="30" width="40" /></a>
 <a href="https://fb.com/ziyodbek0300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ziyodbek0300" height="30" width="40" /></a>
